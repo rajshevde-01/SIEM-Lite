@@ -8,7 +8,7 @@ SIEM Lite simulates a fully operational SOC (Security Operations Center) environ
 
 ## ⚡ Key Features
 
-### 🔴 Real-Time Everything
+### 🔴 Real Time Everything
 - **Live event stream** via WebSocket — events generated every 1–4 seconds
 - **Real-time detection engine** with 12 built-in rules (brute force, ransomware, DNS tunneling, etc.)
 - **Live alert notifications** with bell icon, severity-coded badges, and sound
